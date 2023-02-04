@@ -1,0 +1,8 @@
+{
+  "environment": "production",
+  "connectionString": "mongodb://127.0.0.1:27017/target",
+  "databaseName": "target",
+  "entitiesCollectionName": "entities",
+  "templatesCollectionName": "templates",
+  "defaultUser": "SYSTEM"
+}
