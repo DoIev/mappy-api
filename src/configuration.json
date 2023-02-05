@@ -4,5 +4,9 @@
   "databaseName": "target",
   "entitiesCollectionName": "entities",
   "templatesCollectionName": "templates",
-  "defaultUser": "SYSTEM"
+  "defaultUser": "SYSTEM",
+  "entityFieldNotMatchTemplateError": "entity fields dont match template!",
+  "entityIdNotProvidedError": "Entity Id not provided!",
+  "templateIdMissingError": "Template Id is Missing!",
+  "entityNotFoundError": "Entity Not Found!"
 }

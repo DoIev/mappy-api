@@ -1,12 +1,12 @@
 import { IConfigurationService } from "./interfaces/configuration.interface";
 import { IMetadata } from "../models/metadata.model";
-import { TimeService } from "./time.service";
+import { ITimeService } from "./interfaces/time.interface";
 
 export class MetadataGenerator {
   private defaultUser: string;
   constructor(
     private readonly configurationService: IConfigurationService,
-    private readonly timeService: TimeService
+    private readonly timeService: ITimeService
   ) {
     this.defaultUser = this.configurationService.get("defaultUser");
   }

@@ -1,0 +1,65 @@
+/* 1 */
+{
+    "_id" : ObjectId("63dd7f023e6ca4976777bd1d"),
+    "fields" : [ 
+        {
+            "displayName" : "שם",
+            "type" : "String",
+            "fieldId" : "name"
+        }, 
+        {
+            "displayName" : "תיאור",
+            "type" : "String",
+            "fieldId" : "description"
+        }, 
+        {
+            "displayName" : "גיאוגרפיה",
+            "type" : "Geography",
+            "fieldId" : "geography"
+        }, 
+        {
+            "displayName" : "איזור",
+            "type" : "String",
+            "fieldId" : "zone"
+        }
+    ],
+    "metadata" : {
+        "creationTime" : ISODate("2023-02-03T21:39:14.185Z"),
+        "updateTime" : ISODate("2023-02-03T21:39:14.185Z"),
+        "creatingUser" : "SYSTEM",
+        "updatingUser" : "SYSTEM"
+    }
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("63de4ec236f69588c340303e"),
+    "fields" : [ 
+        {
+            "displayName" : "שם",
+            "type" : "String",
+            "fieldId" : "name"
+        }, 
+        {
+            "displayName" : "תיאור",
+            "type" : "String",
+            "fieldId" : "description"
+        }, 
+        {
+            "displayName" : "גיאוגרפיה",
+            "type" : "Geography",
+            "fieldId" : "geography"
+        }, 
+        {
+            "displayName" : "איזור",
+            "type" : "String",
+            "fieldId" : "zone"
+        }
+    ],
+    "metadata" : {
+        "creationTime" : ISODate("2023-02-04T12:25:38.384Z"),
+        "updateTime" : ISODate("2023-02-04T12:25:38.384Z"),
+        "creatingUser" : "SYSTEM",
+        "updatingUser" : "SYSTEM"
+    }
+}

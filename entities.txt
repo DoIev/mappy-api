@@ -1,0 +1,143 @@
+/* 1 */
+{
+    "_id" : ObjectId("63de53f4c99e300eb480668d"),
+    "templateId" : "63dd7f023e6ca4976777bd1d",
+    "fields" : [ 
+        {
+            "fieldId" : "name",
+            "value" : "לול",
+            "metadata" : {
+                "creationTime" : ISODate("2023-02-04T12:47:36.753Z"),
+                "updateTime" : ISODate("2023-02-04T12:47:36.753Z"),
+                "creatingUser" : "SYSTEM",
+                "updatingUser" : "SYSTEM"
+            }
+        }, 
+        {
+            "fieldId" : "description",
+            "value" : "תיאור לדוגמה",
+            "metadata" : {
+                "creationTime" : ISODate("2023-02-04T12:47:36.753Z"),
+                "updateTime" : ISODate("2023-02-04T12:47:36.753Z"),
+                "creatingUser" : "SYSTEM",
+                "updatingUser" : "SYSTEM"
+            }
+        }, 
+        {
+            "fieldId" : "geography",
+            "value" : "POINT(1 1)",
+            "metadata" : {
+                "creationTime" : ISODate("2023-02-04T12:47:36.753Z"),
+                "updateTime" : ISODate("2023-02-04T12:47:36.753Z"),
+                "creatingUser" : "SYSTEM",
+                "updatingUser" : "SYSTEM"
+            }
+        }, 
+        {
+            "fieldId" : "zone",
+            "value" : "רוסיה",
+            "metadata" : {
+                "creationTime" : ISODate("2023-02-04T12:47:36.753Z"),
+                "updateTime" : ISODate("2023-02-04T12:47:36.753Z"),
+                "creatingUser" : "SYSTEM",
+                "updatingUser" : "SYSTEM"
+            }
+        }
+    ]
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("63de5aeef3f6cdcbdbf67dff"),
+    "templateId" : "63dd7f023e6ca4976777bd1d",
+    "fields" : [ 
+        {
+            "fieldId" : "name",
+            "value" : "לול",
+            "metadata" : {
+                "creationTime" : ISODate("2023-02-04T13:17:34.846Z"),
+                "updateTime" : ISODate("2023-02-04T13:17:34.846Z"),
+                "creatingUser" : "SYSTEM",
+                "updatingUser" : "SYSTEM"
+            }
+        }, 
+        {
+            "fieldId" : "description",
+            "value" : "תיאור לדוגמה",
+            "metadata" : {
+                "creationTime" : ISODate("2023-02-04T13:17:34.846Z"),
+                "updateTime" : ISODate("2023-02-04T13:17:34.846Z"),
+                "creatingUser" : "SYSTEM",
+                "updatingUser" : "SYSTEM"
+            }
+        }, 
+        {
+            "fieldId" : "geography",
+            "value" : "POLYGON((34.75750787978435 32.028194709413796,34.7547612977531 31.997918985041554,34.844025213768724 32.031687418554455,34.75750787978435 32.028194709413796))",
+            "metadata" : {
+                "creationTime" : ISODate("2023-02-04T13:17:34.846Z"),
+                "updateTime" : ISODate("2023-02-04T13:17:34.846Z"),
+                "creatingUser" : "SYSTEM",
+                "updatingUser" : "SYSTEM"
+            }
+        }, 
+        {
+            "fieldId" : "zone",
+            "value" : "רוסיה",
+            "metadata" : {
+                "creationTime" : ISODate("2023-02-04T13:17:34.846Z"),
+                "updateTime" : ISODate("2023-02-04T13:17:34.846Z"),
+                "creatingUser" : "SYSTEM",
+                "updatingUser" : "SYSTEM"
+            }
+        }
+    ]
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("63dec0ae3e42bfb86d681dad"),
+    "fields" : [ 
+        {
+            "fieldId" : "name",
+            "value" : "פאק",
+            "metadata" : {
+                "creationTime" : ISODate("2023-02-04T20:31:42.047Z"),
+                "updateTime" : ISODate("2023-02-04T20:31:42.047Z"),
+                "creatingUser" : "SYSTEM",
+                "updatingUser" : "SYSTEM"
+            }
+        }, 
+        {
+            "fieldId" : "description",
+            "value" : "פאק פאק",
+            "metadata" : {
+                "creationTime" : ISODate("2023-02-04T20:31:42.047Z"),
+                "updateTime" : ISODate("2023-02-04T20:31:42.047Z"),
+                "creatingUser" : "SYSTEM",
+                "updatingUser" : "SYSTEM"
+            }
+        }, 
+        {
+            "fieldId" : "geography",
+            "value" : "POINT(1 1)",
+            "metadata" : {
+                "creationTime" : ISODate("2023-02-04T20:31:42.047Z"),
+                "updateTime" : ISODate("2023-02-04T20:31:42.047Z"),
+                "creatingUser" : "SYSTEM",
+                "updatingUser" : "SYSTEM"
+            }
+        }, 
+        {
+            "fieldId" : "zone",
+            "value" : "פאק",
+            "metadata" : {
+                "creationTime" : ISODate("2023-02-04T20:31:42.047Z"),
+                "updateTime" : ISODate("2023-02-04T20:31:42.047Z"),
+                "creatingUser" : "SYSTEM",
+                "updatingUser" : "SYSTEM"
+            }
+        }
+    ],
+    "templateId" : "63dd7f023e6ca4976777bd1d"
+}

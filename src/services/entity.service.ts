@@ -24,7 +24,7 @@ export class EntitiesService implements IEntitiesService {
   }
   public async getEntityById(entityId: string): Promise<IEntity> {
     const entity = await this.entitiesRepository.getOneById(entityId);
-    if (isEmpty(entity)) throw new NotFoundError("Entity Not Found");
+    if (isEmpty(entity)) throw new NotFoundError("Entity Not Found!");
     return entity;
   }
 

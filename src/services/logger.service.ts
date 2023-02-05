@@ -2,7 +2,7 @@ import pino, { Logger } from "pino";
 
 export class LoggerService {
   private logger: Logger;
-  init() {
+  public init() {
     this.logger = pino({
       transport: {
         target: "pino-pretty",
@@ -13,11 +13,11 @@ export class LoggerService {
     });
   }
 
-  info(msg: string) {
+  public info(msg: string) {
     this.logger.info(msg);
   }
 
-  error(err: Error) {
+  public error(err: Error) {
     this.logger.error(err);
   }
 }
